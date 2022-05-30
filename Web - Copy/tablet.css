@@ -1,0 +1,18 @@
+@media (max-width: 966px) {
+    .menu ul li:nth-child(2) {
+            margin-right: 45%;
+        }
+
+    .banner {
+        height: 20vh;
+    }
+
+    .banner img {
+        display: none;
+    }
+
+    .banner h1,
+    .banner p {
+        color: black;
+    }
+}

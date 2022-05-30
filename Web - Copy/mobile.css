@@ -1,0 +1,14 @@
+@media (max-width: 768px) {
+
+    .col-s-12 {
+        width: 100%;
+    }
+
+    .menu ul li:nth-child(2) {
+        margin-right: 30%;
+    }
+
+    .menu ul li {
+        font-size: 80%;
+    }
+}
